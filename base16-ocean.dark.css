@@ -1,0 +1,30 @@
+/*
+    Name:       Base16 Ocean Dark
+    Author:     Clinton Dreisbach
+
+    Original Base16 color scheme by Chris Kempson (https://github.com/chriskempson/base16)
+*/
+
+.cm-s-base16-ocean-dark.CodeMirror {background: #2b303b; color: #c0c5ce;}
+.cm-s-base16-ocean-dark .CodeMirror-selected {background: #4f5b66 !important;}
+.cm-s-base16-ocean-dark .CodeMirror-gutters {background: #343d46; color: #65737e; border-right: 0px;}
+.cm-s-base16-ocean-dark .CodeMirror-linenumber {color: #65737e;}
+.cm-s-base16-ocean-dark .CodeMirror-cursor {border-left: 2px solid #c0c5ce !important;}
+
+.cm-s-base16-ocean-dark span.cm-comment {color: #65737e;}
+.cm-s-base16-ocean-dark span.cm-atom {color: #b48ead;}
+.cm-s-base16-ocean-dark span.cm-number {color: #d08770;}
+
+.cm-s-base16-ocean-dark span.cm-property, .cm-s-base16-ocean-dark span.cm-attribute {color: #d08770;}
+.cm-s-base16-ocean-dark span.cm-keyword {color: #b48ead;}
+.cm-s-base16-ocean-dark span.cm-string {color: #a3be8c;}
+
+.cm-s-base16-ocean-dark span.cm-variable {color: #bf616a;}
+.cm-s-base16-ocean-dark span.cm-variable-2 {color: #ebcb8b;}
+.cm-s-base16-ocean-dark span.cm-def {color: #8fa1b3;}
+.cm-s-base16-ocean-dark span.cm-error {background: #bf616a; color: #2b303b;}
+.cm-s-base16-ocean-dark span.cm-bracket {color: #c0c5ce;}
+.cm-s-base16-ocean-dark span.cm-tag {color: #bf616a;}
+.cm-s-base16-ocean-dark span.cm-link {color: #d08770;}
+
+.cm-s-base16-ocean-dark .CodeMirror-matchingbracket { text-decoration: underline; color: white !important;}

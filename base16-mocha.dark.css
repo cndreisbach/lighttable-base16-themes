@@ -1,0 +1,30 @@
+/*
+    Name:       Base16 Mocha Dark
+    Author:     Clinton Dreisbach
+
+    Original Base16 color scheme by Chris Kempson (https://github.com/chriskempson/base16)
+*/
+
+.cm-s-base16-mocha-dark.CodeMirror {background: #3B3228; color: #d0c8c6;}
+.cm-s-base16-mocha-dark .CodeMirror-selected {background: #645240 !important;}
+.cm-s-base16-mocha-dark .CodeMirror-gutters {background: #534636; color: #7e705a; border-right: 0px;}
+.cm-s-base16-mocha-dark .CodeMirror-linenumber {color: #7e705a;}
+.cm-s-base16-mocha-dark .CodeMirror-cursor {border-left: 2px solid #d0c8c6 !important;}
+
+.cm-s-base16-mocha-dark span.cm-comment {color: #7e705a;}
+.cm-s-base16-mocha-dark span.cm-atom {color: #a89bb9;}
+.cm-s-base16-mocha-dark span.cm-number {color: #d28b71;}
+
+.cm-s-base16-mocha-dark span.cm-property, .cm-s-base16-mocha-dark span.cm-attribute {color: #d28b71;}
+.cm-s-base16-mocha-dark span.cm-keyword {color: #a89bb9;}
+.cm-s-base16-mocha-dark span.cm-string {color: #beb55b;}
+
+.cm-s-base16-mocha-dark span.cm-variable {color: #cb6077;}
+.cm-s-base16-mocha-dark span.cm-variable-2 {color: #f4bc87;}
+.cm-s-base16-mocha-dark span.cm-def {color: #8ab3b5;}
+.cm-s-base16-mocha-dark span.cm-error {background: #cb6077; color: #3B3228;}
+.cm-s-base16-mocha-dark span.cm-bracket {color: #d0c8c6;}
+.cm-s-base16-mocha-dark span.cm-tag {color: #cb6077;}
+.cm-s-base16-mocha-dark span.cm-link {color: #d28b71;}
+
+.cm-s-base16-mocha-dark .CodeMirror-matchingbracket { text-decoration: underline; color: white !important;}

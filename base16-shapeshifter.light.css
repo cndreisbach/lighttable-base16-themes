@@ -1,0 +1,30 @@
+/*
+    Name:       Base16 shapeshifter Light
+    Author:     Clinton Dreisbach
+
+    Original Base16 color scheme by Chris Kempson (https://github.com/chriskempson/base16)
+*/
+
+.cm-s-base16-shapeshifter-light.CodeMirror {background: #f9f9f9; color: #102015;}
+.cm-s-base16-shapeshifter-light .CodeMirror-selected {background: #e0e0e0 !important;}
+.cm-s-base16-shapeshifter-light .CodeMirror-gutters {background: #f9f9f9; color: #102015; border-right: 0px;}
+.cm-s-base16-shapeshifter-light .CodeMirror-linenumber {color: #555555;}
+.cm-s-base16-shapeshifter-light .CodeMirror-cursor {border-left: 2px solid #102015 !important;}
+
+.cm-s-base16-shapeshifter-light span.cm-comment {color: #555555;}
+.cm-s-base16-shapeshifter-light span.cm-atom {color: #f996e2;}
+.cm-s-base16-shapeshifter-light span.cm-number {color: #e09448;}
+
+.cm-s-base16-shapeshifter-light span.cm-property, .cm-s-base16-shapeshifter-light span.cm-attribute {color: #e09448;}
+.cm-s-base16-shapeshifter-light span.cm-keyword {color: #f996e2;}
+.cm-s-base16-shapeshifter-light span.cm-string {color: #0ed839;}
+
+.cm-s-base16-shapeshifter-light span.cm-variable {color: #e92f2f;}
+.cm-s-base16-shapeshifter-light span.cm-variable-2 {color: #e09448;}
+.cm-s-base16-shapeshifter-light span.cm-def {color: #3b48e3;}
+.cm-s-base16-shapeshifter-light span.cm-error {background: #e92f2f; color: #f9f9f9;}
+.cm-s-base16-shapeshifter-light span.cm-bracket {color: #102015;}
+.cm-s-base16-shapeshifter-light span.cm-tag {color: #e92f2f;}
+.cm-s-base16-shapeshifter-light span.cm-link {color: #e09448;}
+
+.cm-s-base16-shapeshifter-light .CodeMirror-matchingbracket { text-decoration: underline; color: white !important;}

@@ -1,0 +1,30 @@
+/*
+    Name:       Base16 Solarized Light
+    Author:     Clinton Dreisbach
+
+    Original Base16 color scheme by Chris Kempson (https://github.com/chriskempson/base16)
+*/
+
+.cm-s-base16-solarized-light.CodeMirror {background: #fdf6e3; color: #586e75;}
+.cm-s-base16-solarized-light .CodeMirror-selected {background: #eee8d5 !important;}
+.cm-s-base16-solarized-light .CodeMirror-gutters {background: #fdf6e3; color: #586e75; border-right: 0px;}
+.cm-s-base16-solarized-light .CodeMirror-linenumber {color: #839496;}
+.cm-s-base16-solarized-light .CodeMirror-cursor {border-left: 2px solid #586e75 !important;}
+
+.cm-s-base16-solarized-light span.cm-comment {color: #839496;}
+.cm-s-base16-solarized-light span.cm-atom {color: #6c71c4;}
+.cm-s-base16-solarized-light span.cm-number {color: #cb4b16;}
+
+.cm-s-base16-solarized-light span.cm-property, .cm-s-base16-solarized-light span.cm-attribute {color: #cb4b16;}
+.cm-s-base16-solarized-light span.cm-keyword {color: #6c71c4;}
+.cm-s-base16-solarized-light span.cm-string {color: #859900;}
+
+.cm-s-base16-solarized-light span.cm-variable {color: #dc322f;}
+.cm-s-base16-solarized-light span.cm-variable-2 {color: #cb4b16;}
+.cm-s-base16-solarized-light span.cm-def {color: #268bd2;}
+.cm-s-base16-solarized-light span.cm-error {background: #dc322f; color: #fdf6e3;}
+.cm-s-base16-solarized-light span.cm-bracket {color: #586e75;}
+.cm-s-base16-solarized-light span.cm-tag {color: #dc322f;}
+.cm-s-base16-solarized-light span.cm-link {color: #cb4b16;}
+
+.cm-s-base16-solarized-light .CodeMirror-matchingbracket { text-decoration: underline; color: white !important;}
