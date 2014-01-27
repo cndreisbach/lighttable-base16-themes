@@ -9,17 +9,13 @@
 .cm-s-base16-solarized-dark .CodeMirror-selected {background: #586e75 !important;}
 .cm-s-base16-solarized-dark .CodeMirror-gutters {background: #073642; color: #657b83; border-right: 0px;}
 .cm-s-base16-solarized-dark .CodeMirror-linenumber {color: #657b83;}
-.cm-s-base16-solarized-dark .CodeMirror-cursor {border-left: 2px solid #93a1a1 !important;}
+.cm-s-base16-solarized-dark .CodeMirror-cursor {border-left: 2px solid #fdf6e3 !important;}
 
 .cm-s-base16-solarized-dark span.cm-comment {color: #657b83;}
 .cm-s-base16-solarized-dark span.cm-atom {color: #6c71c4;}
 .cm-s-base16-solarized-dark span.cm-number {color: #cb4b16;}
-
-.cm-s-base16-solarized-dark span.cm-property, .cm-s-base16-solarized-dark span.cm-attribute {color: #cb4b16;}
-.cm-s-base16-solarized-dark span.cm-keyword {color: #6c71c4;}
 .cm-s-base16-solarized-dark span.cm-string {color: #859900;}
-
-.cm-s-base16-solarized-dark span.cm-variable {color: #dc322f;}
+.cm-s-base16-solarized-dark span.cm-string-2 {color: #2aa198;}
 .cm-s-base16-solarized-dark span.cm-variable-2 {color: #b58900;}
 .cm-s-base16-solarized-dark span.cm-def {color: #268bd2;}
 .cm-s-base16-solarized-dark span.cm-error {background: #dc322f; color: #002b36;}
@@ -27,4 +23,32 @@
 .cm-s-base16-solarized-dark span.cm-tag {color: #dc322f;}
 .cm-s-base16-solarized-dark span.cm-link {color: #cb4b16;}
 
+.cm-s-base16-solarized-dark span.cm-variable,
+.cm-s-base16-solarized-dark span.cm-symbol {color: #dc322f;}
+
+.cm-s-base16-solarized-dark span.cm-property,
+.cm-s-base16-solarized-dark span.cm-operator {color: #6c71c4;}
+
+.cm-s-base16-solarized-dark span.cm-attribute,
+.cm-s-base16-solarized-dark span.cm-keyword,
+.cm-s-base16-solarized-dark span.cm-builtin,
+.cm-s-base16-solarized-dark span.cm-header,
+.cm-s-base16-solarized-dark span.cm-qualifier,
+.cm-s-base16-solarized-dark span.cm-meta {color: #cb4b16;}
+
+/* Rainbow parens */
 .cm-s-base16-solarized-dark .CodeMirror-matchingbracket { text-decoration: underline; color: white !important;}
+.cm-s-base16-solarized-dark span.cm-bracket {color: #eee8d5; }
+.cm-s-base16-solarized-dark span.cm-bracket1 {color: #eee8d5; }
+.cm-s-base16-solarized-dark span.cm-bracket2 {color: #cb4b16;}
+.cm-s-base16-solarized-dark span.cm-bracket3 {color: #b58900;}
+.cm-s-base16-solarized-dark span.cm-bracket4 {color: #859900;}
+.cm-s-base16-solarized-dark span.cm-bracket5 {color: #2aa198;}
+.cm-s-base16-solarized-dark span.cm-bracket6 {color: #268bd2;}
+.cm-s-base16-solarized-dark span.cm-bracket7 {color: #6c71c4;}
+.cm-s-base16-solarized-dark span.cm-bracket8 {color: #d33682;}
+.cm-s-base16-solarized-dark span.cm-bracket9 {color: #cb4b16;}
+.cm-s-base16-solarized-dark span.cm-bracket10 {color: #b58900;}
+.cm-s-base16-solarized-dark span.cm-bracket11 {color: #859900;}
+.cm-s-base16-solarized-dark span.cm-bracket12 {color: #2aa198;}
+.cm-s-base16-solarized-dark span.cm-bracket0, .cm-s-base16-solarized-dark span.cm-bracket-mismatched { color: #002b36; background: #dc322f; }

@@ -9,17 +9,13 @@
 .cm-s-base16-tomorrow-dark .CodeMirror-selected {background: #373b41 !important;}
 .cm-s-base16-tomorrow-dark .CodeMirror-gutters {background: #282a2e; color: #969896; border-right: 0px;}
 .cm-s-base16-tomorrow-dark .CodeMirror-linenumber {color: #969896;}
-.cm-s-base16-tomorrow-dark .CodeMirror-cursor {border-left: 2px solid #c5c8c6 !important;}
+.cm-s-base16-tomorrow-dark .CodeMirror-cursor {border-left: 2px solid #ffffff !important;}
 
 .cm-s-base16-tomorrow-dark span.cm-comment {color: #969896;}
 .cm-s-base16-tomorrow-dark span.cm-atom {color: #b294bb;}
 .cm-s-base16-tomorrow-dark span.cm-number {color: #de935f;}
-
-.cm-s-base16-tomorrow-dark span.cm-property, .cm-s-base16-tomorrow-dark span.cm-attribute {color: #de935f;}
-.cm-s-base16-tomorrow-dark span.cm-keyword {color: #b294bb;}
 .cm-s-base16-tomorrow-dark span.cm-string {color: #b5bd68;}
-
-.cm-s-base16-tomorrow-dark span.cm-variable {color: #cc6666;}
+.cm-s-base16-tomorrow-dark span.cm-string-2 {color: #8abeb7;}
 .cm-s-base16-tomorrow-dark span.cm-variable-2 {color: #f0c674;}
 .cm-s-base16-tomorrow-dark span.cm-def {color: #81a2be;}
 .cm-s-base16-tomorrow-dark span.cm-error {background: #cc6666; color: #1d1f21;}
@@ -27,4 +23,32 @@
 .cm-s-base16-tomorrow-dark span.cm-tag {color: #cc6666;}
 .cm-s-base16-tomorrow-dark span.cm-link {color: #de935f;}
 
+.cm-s-base16-tomorrow-dark span.cm-variable,
+.cm-s-base16-tomorrow-dark span.cm-symbol {color: #cc6666;}
+
+.cm-s-base16-tomorrow-dark span.cm-property,
+.cm-s-base16-tomorrow-dark span.cm-operator {color: #b294bb;}
+
+.cm-s-base16-tomorrow-dark span.cm-attribute,
+.cm-s-base16-tomorrow-dark span.cm-keyword,
+.cm-s-base16-tomorrow-dark span.cm-builtin,
+.cm-s-base16-tomorrow-dark span.cm-header,
+.cm-s-base16-tomorrow-dark span.cm-qualifier,
+.cm-s-base16-tomorrow-dark span.cm-meta {color: #de935f;}
+
+/* Rainbow parens */
 .cm-s-base16-tomorrow-dark .CodeMirror-matchingbracket { text-decoration: underline; color: white !important;}
+.cm-s-base16-tomorrow-dark span.cm-bracket {color: #e0e0e0; }
+.cm-s-base16-tomorrow-dark span.cm-bracket1 {color: #e0e0e0; }
+.cm-s-base16-tomorrow-dark span.cm-bracket2 {color: #de935f;}
+.cm-s-base16-tomorrow-dark span.cm-bracket3 {color: #f0c674;}
+.cm-s-base16-tomorrow-dark span.cm-bracket4 {color: #b5bd68;}
+.cm-s-base16-tomorrow-dark span.cm-bracket5 {color: #8abeb7;}
+.cm-s-base16-tomorrow-dark span.cm-bracket6 {color: #81a2be;}
+.cm-s-base16-tomorrow-dark span.cm-bracket7 {color: #b294bb;}
+.cm-s-base16-tomorrow-dark span.cm-bracket8 {color: #a3685a;}
+.cm-s-base16-tomorrow-dark span.cm-bracket9 {color: #de935f;}
+.cm-s-base16-tomorrow-dark span.cm-bracket10 {color: #f0c674;}
+.cm-s-base16-tomorrow-dark span.cm-bracket11 {color: #b5bd68;}
+.cm-s-base16-tomorrow-dark span.cm-bracket12 {color: #8abeb7;}
+.cm-s-base16-tomorrow-dark span.cm-bracket0, .cm-s-base16-tomorrow-dark span.cm-bracket-mismatched { color: #1d1f21; background: #cc6666; }
