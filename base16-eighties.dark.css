@@ -38,17 +38,17 @@
 
 /* Rainbow parens */
 .cm-s-base16-eighties-dark .CodeMirror-matchingbracket { text-decoration: underline; color: white !important;}
-.cm-s-base16-eighties-dark span.cm-bracket {color: #e8e6df; }
-.cm-s-base16-eighties-dark span.cm-bracket1 {color: #e8e6df; }
-.cm-s-base16-eighties-dark span.cm-bracket2 {color: #f99157;}
-.cm-s-base16-eighties-dark span.cm-bracket3 {color: #ffcc66;}
-.cm-s-base16-eighties-dark span.cm-bracket4 {color: #99cc99;}
-.cm-s-base16-eighties-dark span.cm-bracket5 {color: #66cccc;}
-.cm-s-base16-eighties-dark span.cm-bracket6 {color: #6699cc;}
-.cm-s-base16-eighties-dark span.cm-bracket7 {color: #cc99cc;}
-.cm-s-base16-eighties-dark span.cm-bracket8 {color: #d27b53;}
-.cm-s-base16-eighties-dark span.cm-bracket9 {color: #f99157;}
-.cm-s-base16-eighties-dark span.cm-bracket10 {color: #ffcc66;}
-.cm-s-base16-eighties-dark span.cm-bracket11 {color: #99cc99;}
-.cm-s-base16-eighties-dark span.cm-bracket12 {color: #66cccc;}
-.cm-s-base16-eighties-dark span.cm-bracket0, .cm-s-base16-eighties-dark span.cm-bracket-mismatched { color: #2d2d2d; background: #f2777a; }
+.cm-s-base16-eighties-dark span.cm-rainbow.cm-bracket {color: #e8e6df; }
+.cm-s-base16-eighties-dark span.cm-rainbow.cm-bracket.cm-bracket1 {color: #e8e6df; }
+.cm-s-base16-eighties-dark span.cm-rainbow.cm-bracket.cm-bracket2 {color: #f99157;}
+.cm-s-base16-eighties-dark span.cm-rainbow.cm-bracket.cm-bracket3 {color: #ffcc66;}
+.cm-s-base16-eighties-dark span.cm-rainbow.cm-bracket.cm-bracket4 {color: #99cc99;}
+.cm-s-base16-eighties-dark span.cm-rainbow.cm-bracket.cm-bracket5 {color: #66cccc;}
+.cm-s-base16-eighties-dark span.cm-rainbow.cm-bracket.cm-bracket6 {color: #6699cc;}
+.cm-s-base16-eighties-dark span.cm-rainbow.cm-bracket.cm-bracket7 {color: #cc99cc;}
+.cm-s-base16-eighties-dark span.cm-rainbow.cm-bracket.cm-bracket8 {color: #d27b53;}
+.cm-s-base16-eighties-dark span.cm-rainbow.cm-bracket.cm-bracket9 {color: #f99157;}
+.cm-s-base16-eighties-dark span.cm-rainbow.cm-bracket.cm-bracket10 {color: #ffcc66;}
+.cm-s-base16-eighties-dark span.cm-rainbow.cm-bracket.cm-bracket11 {color: #99cc99;}
+.cm-s-base16-eighties-dark span.cm-rainbow.cm-bracket.cm-bracket12 {color: #66cccc;}
+.cm-s-base16-eighties-dark span.cm-rainbow.cm-bracket.cm-bracket0, .cm-s-base16-eighties-dark span.cm-bracket-mismatched { color: #2d2d2d; background: #f2777a; }

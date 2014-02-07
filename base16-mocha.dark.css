@@ -38,17 +38,17 @@
 
 /* Rainbow parens */
 .cm-s-base16-mocha-dark .CodeMirror-matchingbracket { text-decoration: underline; color: white !important;}
-.cm-s-base16-mocha-dark span.cm-bracket {color: #e9e1dd; }
-.cm-s-base16-mocha-dark span.cm-bracket1 {color: #e9e1dd; }
-.cm-s-base16-mocha-dark span.cm-bracket2 {color: #d28b71;}
-.cm-s-base16-mocha-dark span.cm-bracket3 {color: #f4bc87;}
-.cm-s-base16-mocha-dark span.cm-bracket4 {color: #beb55b;}
-.cm-s-base16-mocha-dark span.cm-bracket5 {color: #7bbda4;}
-.cm-s-base16-mocha-dark span.cm-bracket6 {color: #8ab3b5;}
-.cm-s-base16-mocha-dark span.cm-bracket7 {color: #a89bb9;}
-.cm-s-base16-mocha-dark span.cm-bracket8 {color: #bb9584;}
-.cm-s-base16-mocha-dark span.cm-bracket9 {color: #d28b71;}
-.cm-s-base16-mocha-dark span.cm-bracket10 {color: #f4bc87;}
-.cm-s-base16-mocha-dark span.cm-bracket11 {color: #beb55b;}
-.cm-s-base16-mocha-dark span.cm-bracket12 {color: #7bbda4;}
-.cm-s-base16-mocha-dark span.cm-bracket0, .cm-s-base16-mocha-dark span.cm-bracket-mismatched { color: #3B3228; background: #cb6077; }
+.cm-s-base16-mocha-dark span.cm-rainbow.cm-bracket {color: #e9e1dd; }
+.cm-s-base16-mocha-dark span.cm-rainbow.cm-bracket.cm-bracket1 {color: #e9e1dd; }
+.cm-s-base16-mocha-dark span.cm-rainbow.cm-bracket.cm-bracket2 {color: #d28b71;}
+.cm-s-base16-mocha-dark span.cm-rainbow.cm-bracket.cm-bracket3 {color: #f4bc87;}
+.cm-s-base16-mocha-dark span.cm-rainbow.cm-bracket.cm-bracket4 {color: #beb55b;}
+.cm-s-base16-mocha-dark span.cm-rainbow.cm-bracket.cm-bracket5 {color: #7bbda4;}
+.cm-s-base16-mocha-dark span.cm-rainbow.cm-bracket.cm-bracket6 {color: #8ab3b5;}
+.cm-s-base16-mocha-dark span.cm-rainbow.cm-bracket.cm-bracket7 {color: #a89bb9;}
+.cm-s-base16-mocha-dark span.cm-rainbow.cm-bracket.cm-bracket8 {color: #bb9584;}
+.cm-s-base16-mocha-dark span.cm-rainbow.cm-bracket.cm-bracket9 {color: #d28b71;}
+.cm-s-base16-mocha-dark span.cm-rainbow.cm-bracket.cm-bracket10 {color: #f4bc87;}
+.cm-s-base16-mocha-dark span.cm-rainbow.cm-bracket.cm-bracket11 {color: #beb55b;}
+.cm-s-base16-mocha-dark span.cm-rainbow.cm-bracket.cm-bracket12 {color: #7bbda4;}
+.cm-s-base16-mocha-dark span.cm-rainbow.cm-bracket.cm-bracket0, .cm-s-base16-mocha-dark span.cm-bracket-mismatched { color: #3B3228; background: #cb6077; }
