@@ -6,7 +6,7 @@
 */
 
 .cm-s-base16-solarized-dark.CodeMirror {background: #002b36; color: #93a1a1;}
-.cm-s-base16-solarized-dark .CodeMirror-selected {background: #586e75 !important;}
+.cm-s-base16-solarized-dark .CodeMirror-selected {background: #2c4c55 !important;}
 .cm-s-base16-solarized-dark .CodeMirror-gutters {background: #073642; color: #657b83; border-right: 0px;}
 .cm-s-base16-solarized-dark .CodeMirror-linenumber {color: #657b83;}
 .cm-s-base16-solarized-dark .CodeMirror-cursor {border-left: 2px solid #fdf6e3 !important;}
